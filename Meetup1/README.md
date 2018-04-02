@@ -12,9 +12,9 @@ Puedes ver las charlas [aquí.](https://www.youtube.com/watch?v=I7H1iILM8H4)
 
 * [Foundations of Natural Language Processing](http://ics.upjs.sk/~pero/web/documents/pillar/Manning_Schuetze_StatisticalNLP.pdf)
 
-* [Deep Learning Book](www.deeplearningbook.org)
+* [Deep Learning Book](http://www.deeplearningbook.org/)
 
-* [Fast AI](www.fast.ai)
+* [Fast AI](http://www.fast.ai/)
 
 * [Curso gratuito de DL de Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
